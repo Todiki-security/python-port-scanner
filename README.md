@@ -11,11 +11,16 @@ Features:
 - Prints message if no open ports found
 
 Usage:
-1.Clone the repository or download the script,
-  2. Run the script,
-  3. Enter the target IP or domain name,
-  4.Enter the start and end port numbers to scan,
-  5.View the open ports detected.
 
+- Clone the repository or download the script
+- Run the script
+- Enter the target IP or domain name
+- Enter the start and end port numbers to scan
+- View the open ports detected
+
+IMPORTANT:
+
+- ONLY SCAN HOSTS YOU HAVE PERMISSION TO SCAN OR OWN.
+- UNAUTHORIZED SCANNING MAY BE ILLEGAL OR VIOLATE TOS.
 
 
