@@ -2,7 +2,7 @@
 First cyber security project, I created a basic port scanner with use of threading
 It scans a target IP or domain for open TCP ports within a specified range.
 
-##Features
+Features:
 
 - Displays the open ports in real time
 - User input for target and the port range
@@ -10,7 +10,7 @@ It scans a target IP or domain for open TCP ports within a specified range.
 - Handles domain name resolution
 - Prints message if no open ports found
 
-#Usage
+Usage:
 1.Clone the repository or download the script,
   2. Run the script,
   3. Enter the target IP or domain name,
